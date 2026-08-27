@@ -16,46 +16,16 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">Languages & Scripting</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">Databases & Storage</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">Tools & Frameworks</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
+
 
 ---
 
 ### 📌 About & Current Goals
 
-- 🔭 **Currently working on:** Designing data pipelines and process automation tools.
-- 🌱 **Currently learning:** Advanced Data Engineering techniques, ETL pipelines, and Cloud Infrastructure.
+- 🔭 **Currently working on:** 
+- 🌱 **Currently learning:** Data Engineering techniques, ETL pipelines, and Cloud Infrastructure.
 - 👯 **Looking to collaborate on:** Open-source projects related to Data Engineering, Automation, and Backend Development.
-- ⚡ **Fun fact:** Passionate about technology, outdoor sports, and continuous learning.
+- ⚡ **Fun fact:** 
 
 ---
 
